@@ -29,8 +29,8 @@ cargo install serve-files
 **or**, install from source code by running:
 
 ```sh
-git clone https://github.com/dreisss/.files.git
-cd .files/server
+git clone https://github.com/dreisss/serve-files.git
+cd serve-files
 cargo install --path .
 ```
 
